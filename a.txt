@@ -1,4 +1,3 @@
 this is "a" file
 hello hi
 after fetching
-after rebase`
